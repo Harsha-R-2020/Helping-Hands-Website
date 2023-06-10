@@ -1,0 +1,15 @@
+.table{
+    margin-left: 20%;
+    padding:1%;
+    width:60%;
+}
+h5{
+    margin-top: 3%;
+    text-align:center;
+}
+thead{
+    text-align:center;
+}
+tbody{
+    text-align:center;
+}
